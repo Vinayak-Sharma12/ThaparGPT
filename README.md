@@ -29,6 +29,10 @@ Augmented Generation: After retrieving the relevant text, ThaparGPT uses Cohere'
 <img src="https://i.postimg.cc/zXMy7Jr8/Screenshot-2024-08-13-at-5-46-31-PM.png" width="70%" height="70%">
 <img src="https://i.postimg.cc/0QcQwvng/Screenshot-2024-08-15-at-3-44-45-AM.png" width="70%" height="70%">
 <img src="https://i.postimg.cc/SQ1RQyjC/Screenshot-2024-08-15-at-3-50-36-AM.png" width="70%" height="70%">
-<img src="https://i.postimg.cc/j21SMhBZ/Screenshot-2024-08-15-at-3-48-48-AM.png" width="70%" height="70%"
+<img src="https://i.postimg.cc/j21SMhBZ/Screenshot-2024-08-15-at-3-48-48-AM.png" width="70%" height="70%">
 
+ ## **4. Live link**
+   Link: https://thapargpt-ah5lxaqe8rlcybfqw3iq3e.streamlit.app/
+
+   
 
