@@ -22,4 +22,4 @@ Augmented Generation: After retrieving the relevant text, ThaparGPT uses Cohere'
   <img src="https://python.langchain.com/v0.1/assets/images/rag_retrieval_generation-1046a4668d6bb08786ef73c56d4f228a.png" width="80%" height="80%">
 
 ## **3. Input / Output**
-<img src="https://drive.google.com/drive/folders/1B_Pkvex3mViZQXeUHBFQu3NIq0TTTpIB" width="40%" height="40%">
+<img src="https://i.postimg.cc/vBz1tfQN/Screenshot-2024-08-13-at-5-30-56-PM.png" width="40%" height="40%">
