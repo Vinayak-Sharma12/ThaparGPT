@@ -22,11 +22,15 @@ Augmented Generation: After retrieving the relevant text, ThaparGPT uses Cohere'
   <img src="https://python.langchain.com/v0.1/assets/images/rag_retrieval_generation-1046a4668d6bb08786ef73c56d4f228a.png" width="80%" height="80%">
 
 ## **3. Input / Output**
-<img src="https://i.postimg.cc/vBz1tfQN/Screenshot-2024-08-13-at-5-30-56-PM.png" width="40%" height="40%">
-<img src="https://i.postimg.cc/L6HT1RDD/Screenshot-2024-11-24-at-1-14-52-PM.png" width="40%" height="40%">
-<img src="https://i.postimg.cc/d0TmY0Qs/Screenshot-2024-11-24-at-1-15-36-PM.png" width="40%" height="40%">
-<img src="https://i.postimg.cc/8Ptbd3nS/Screenshot-2024-11-24-at-1-15-42-PM.png" width="40%" height="40%">
-<img src="https://i.postimg.cc/T3sqFb6N/Screenshot-2024-11-24-at-1-16-12-PM.png" width="40%" height="40%">
+<img src="https://i.postimg.cc/vBz1tfQN/Screenshot-2024-08-13-at-5-30-56-PM.png" width="70%" height="70%">
+<img src="https://i.postimg.cc/1X38CXX5/Screenshot-2024-08-13-at-5-33-27-PM.png" width="70%" height="70%">
+<img src="https://i.postimg.cc/RVq3wW2g/Screenshot-2024-08-13-at-5-40-50-PM.png" width="70%" height="70%">
+<img src="https://i.postimg.cc/c1FgKRkK/Screenshot-2024-08-13-at-5-44-53-PM.png" width="70%" height="70%">
+<img src="https://i.postimg.cc/zXMy7Jr8/Screenshot-2024-08-13-at-5-46-31-PM.png" width="70%" height="70%">
+<img src="https://i.postimg.cc/0QcQwvng/Screenshot-2024-08-15-at-3-44-45-AM.png" width="70%" height="70%">
+<img src="https://i.postimg.cc/SQ1RQyjC/Screenshot-2024-08-15-at-3-50-36-AM.png" width="70%" height="70%">
+<img src="https://i.postimg.cc/j21SMhBZ/Screenshot-2024-08-15-at-3-48-48-AM.png" width="70%" height="70%">
+
 
 
  ## **4. Live link**
